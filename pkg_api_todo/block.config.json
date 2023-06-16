@@ -3,8 +3,8 @@
   "name": "pkg_api_todo",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/faizmh/example_todo_package_block.git",
+    "ssh": "git@github.com:faizmh/example_todo_package_block.git",
     "branch": "block_pkg_api_todo"
   },
   "parentBlockIDs": [

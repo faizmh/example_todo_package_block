@@ -3,8 +3,8 @@
   "name": "todo_create",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/faizmh/example_todo_package_block.git",
+    "ssh": "git@github.com:faizmh/example_todo_package_block.git",
     "branch": "block_todo_create"
   },
   "parentBlockIDs": [
