@@ -1,0 +1,20 @@
+{
+  "blockId": "zBdHrAGZhzCXyXNgxA1TG",
+  "name": "todo_create",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/faizmh/example_todo_package_block.git",
+    "ssh": "git@github.com:faizmh/example_todo_package_block.git",
+    "branch": "block_todo_create"
+  },
+  "parentBlockIDs": [
+    "GRFtnvA5iOayXptTHIoaL"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
