@@ -1,0 +1,20 @@
+{
+  "blockId": "peQVaujsDmyVMIsMvEx8W",
+  "name": "todo_delete",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_todo_delete"
+  },
+  "parentBlockIDs": [
+    "GRFtnvA5iOayXptTHIoaL"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
