@@ -1,0 +1,27 @@
+{
+  "name": "example_todo_package_block",
+  "type": "package",
+  "blockId": "GRFtnvA5iOayXptTHIoaL",
+  "source": {
+    "https": "https://github.com/faizmh/example_todo_package_block.git",
+    "ssh": "git@github.com:faizmh/example_todo_package_block.git",
+    "branch": "block_example_todo_package_block"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "todo_create": {
+      "directory": "todo_create"
+    },
+    "todo_delete": {
+      "directory": "todo_delete"
+    },
+    "pkg_api_todo": {
+      "directory": "pkg_api_todo"
+    }
+  }
+}
